@@ -99,7 +99,7 @@
 }
 
 .profile {
-    border: 1px solid royalblue;
+    /* border: 1px solid royalblue; */
     width:445px;
     height:min-content;
     display:flex;
@@ -118,10 +118,11 @@
 }
 
 .name {
-    font-size: x-large;
+    font-size: xx-large;
     color: royalblue;
     width: auto ;
     text-align: center;
+    font-weight: bolder;
 }
 
 .content {
