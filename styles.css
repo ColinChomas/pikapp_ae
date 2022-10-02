@@ -100,7 +100,7 @@
 
 .profile {
     /* border: 1px solid royalblue; */
-    width:430px;
+    width:420.69px;
     height:min-content;
     display:flex;
     flex-direction:row;
@@ -110,7 +110,7 @@
 }
 
 .headshot {
-    width:auto;
+    width:195px;
 
     float:left;
     position: relative;
@@ -181,9 +181,10 @@ a:visited{
 ul {
     text-align: left;
     list-style: none;
-    margin-left: 10px;
+    margin-left: 5px;
     margin-right: 5px;
     color: royalblue;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
+    font-size: large;
+    text-indent: 5px;
 }
