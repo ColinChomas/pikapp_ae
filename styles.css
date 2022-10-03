@@ -27,7 +27,7 @@
 
 .stickheading {
     
-    position: sticky;
+    /* position: Sticky; */
     top:0;
     z-index: 1000;
     background-color: royalblue;
