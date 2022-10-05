@@ -67,12 +67,19 @@
     margin-left:auto;
     margin-top: auto;
     margin-bottom:auto;
-    /* align-items: space-around; */
+    /* align-content: space-around; */
+    /* padding-left: 50px; */
+
+}
+
+.link {
+    padding:10px;
 }
 
 #currentlink {
     background-color: gold;
     color:royalblue;
+    padding:10px;
     
 }
 
